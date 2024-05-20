@@ -1,5 +1,6 @@
 # Dual_port_RAM
 I have designed dual port RAM of size 8 bit each input port and 9 bit output port
+
 Address line size : 8 bit
 
 RTL Design : Verilog HDL
